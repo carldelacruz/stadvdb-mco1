@@ -5,7 +5,7 @@ const pool = createPool ({
     port: "3310",
     user: "root",
     password: "12345",
-    database: "imdb_ijs",
+    database: "imdb_import",
     connectionLimit: 10
 })
 
