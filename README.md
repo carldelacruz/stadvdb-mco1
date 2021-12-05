@@ -1,3 +1,5 @@
 # stadvdb-mco1
-npm install
-to run: npm run dev
+
+1. cmd and `npm install`
+2. Add a `.env` file.
+3. and `npm run dev`
